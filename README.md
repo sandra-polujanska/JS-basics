@@ -1,1 +1,1 @@
-# zadanie-8-3
+JS basics exercise.
